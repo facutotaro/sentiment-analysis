@@ -1,0 +1,5 @@
+DATASET = "training.1600000.processed.noemoticon.csv"
+CLEAN_DATASET = "clean_tweet.csv"
+TF_DATASET = "term_freq.csv"
+TF_DATASET_NO_STOP_WORDS = "term_freq_no_stop_words.csv"
+TF_DATASET_NO_STOP_WORDS_WITH_DISTRIBUTIONS = "term_freq_no_stop_words_dist.csv"
